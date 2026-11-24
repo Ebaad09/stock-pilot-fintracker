@@ -1,0 +1,6 @@
+{
+  "name": "LedgerPilot",
+  "description": "Inventory control and financial tracking workspace powered by StockPilot and FinTracker data structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
